@@ -33,6 +33,14 @@
             "customerSelect",
             "customerSelect.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "customerDel",
+            "customerDel.json"
+          ]
         }
       ],
       "configxml": null,
@@ -54,7 +62,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "customerSelect",
+      "firstform": "customerDel",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
